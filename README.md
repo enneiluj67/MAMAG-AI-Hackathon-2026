@@ -1,7 +1,7 @@
 # MAMAG-AI-Hackathon-2026
 ### HACKATHON
 
-MAMAG is an AI-based system that automates student clearance by allowing
+Monitoring And Management of Academic Goals (MAMAG) is an AI-based system that automates student clearance by allowing
 teachers to update clearance status digitally while students monitor progress
 in real time.
 
