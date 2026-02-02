@@ -20,3 +20,11 @@ How to Run
 1. Download the repository folder to edit code, add files, and run project
 2. Install requirements
 3. Run the application
+
+TEACHER LOGIN
+Email: gurongbayan@cbzrc.pshs.edu.ph
+Password: sixseven
+
+STUDENT LOGIN
+Email: iskolarngbayan@cbzrc.pshs.edu.ph
+Password: sixseven
